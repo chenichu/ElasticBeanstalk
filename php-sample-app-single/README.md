@@ -1,6 +1,7 @@
 # AWS Elastic Beanstalk PHP Sample on a Single Instance with 1) HTTPS and 2) HTTPS Redirect
 
 Refer to Documentation for detailed steps: https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/https-singleinstance-php.html
+PHP HTTPS redirect sample available @ https://github.com/awsdocs/elastic-beanstalk-samples/blob/master/configuration-files/aws-provided/security-configuration/https-redirect/php/https-redirect-php.config
 
 .ebextensions/https-instance.config
 - Using .ebextensions to customize Linux instance to install 'package' mod24_ssl
