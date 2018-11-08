@@ -1,4 +1,4 @@
-#Jave-SE AWS Sample App with ALB and HTTPS
+# Jave-SE AWS Sample App with ALB and HTTPS
 
 1) java-se sample app obtained from https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/tutorials.html
 2) Elastic Beanstalk environment created from EB CLI
