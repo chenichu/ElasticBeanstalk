@@ -1,0 +1,22 @@
+branch-defaults:
+  default:
+    environment: node-express-env
+  master:
+    environment: node-express-file-upload
+environment-defaults:
+  node-express-env:
+    branch: null
+    repository: null
+global:
+  application_name: node_express
+  default_ec2_keyname: null
+  default_platform: arn:aws:elasticbeanstalk:us-east-1::platform/Node.js running on
+    64bit Amazon Linux/4.14.3
+  default_region: us-east-1
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: null
+  sc: null
+  workspace_type: Application
